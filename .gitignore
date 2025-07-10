@@ -34,3 +34,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+
+backdate_commits.py
+preview_commits.py
+USAGE_GUIDE.md
+restore_original.py
